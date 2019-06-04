@@ -1,1 +1,1 @@
-### Matching between the Actual NO2 concentrations and sensor measurements.
+### Matching between the actual NO2 concentrations and sensor measurements.
