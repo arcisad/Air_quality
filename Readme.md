@@ -9,3 +9,7 @@ Alternatively please open the link below if the notebook fails to open in GitHub
 https://nbviewer.jupyter.org/github/arcisad/Air_quality/blob/master/sensor_esimation.ipynb
 
 This is a solution including a regression and a Kalman filtering method.
+
+**RMSE** and **R-Squared** metrics are used for evaluation. **Dynamic Time Wrapping** is also another metric for evaluating the similarity between temporal sequences, which is not used.
+
+Resluts are more in favour of regression comapred to Kalman filtering in this use case.
